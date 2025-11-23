@@ -57,7 +57,7 @@ def advanced_overall_contour(image_path, output_path=None, dilate_size=5, iterat
 
 # 使用示例
 if __name__ == "__main__":
-    image_path = "your_image.jpg"
+    image_path = "mdwhc.jpg"
     output_path = "advanced_overall_contour.jpg"
   
     result, contours = advanced_overall_contour(
